@@ -1,19 +1,48 @@
-<p align="center"><img alt="MoltCore Logo" src="https://placehold.co/600x120?text=MoltCore"></p>
+# MoltLabs
 
-MoltCore is a local-first orchestration runtime for TypeScript — compose operator requests, provider selection, orchestration, automation, memory, and tool routing from one package.
+Building the next generation of agentic systems.
 
-**[Learn more about MoltCore](#)** • **[Documentation](#)**
+---
 
-```bash
-npx moltcore bootstrap
-```
+MoltLabs focuses on designing and developing scalable, multi-agent AI platforms that enable intelligent orchestration, real-time collaboration, and continuous learning.
 
-## Resources
+Our work centers around:
 
-The [MoltCore Documentation](#) is a great place to start, or explore these other channels:
+- **Agent orchestration** — coordinated, multi-agent execution at scale
+- **Developer-first tooling** — CLI, APIs, and extensible workflows
+- **Memory & learning systems** — persistent, evolving intelligence
+- **Distributed architecture** — resilient, observable, and modular systems
 
-- [Getting Started](#) (Install, validate, and run your first command)
-- [Architecture](#) (Module layout and request flow)
-- [GitHub Issues](https://github.com/molt/moltcore/issues) (Report Bugs)
-- [Roadmap](#) (Feature Requests)
-- [Twitter](https://x.com/moltcore) (Latest News)
+---
+
+### Core Projects
+
+- **MoltCore** — agent orchestration engine and runtime
+- **Agent UI** — real-time interface for multi-agent interaction
+- **Tooling & Integrations** — CLI, SDKs, and ecosystem extensions
+
+---
+
+### Principles
+
+- **Transparency over abstraction**
+- **Modularity over monoliths**
+- **Control over automation**
+- **Systems over features**
+
+---
+
+### Get Involved
+
+We're building in the open.
+
+- Explore the repositories
+- Open issues and discussions
+- Contribute ideas, code, or feedback
+
+---
+
+### Contact
+
+For collaboration or inquiries:
+**demianborek@gmail.com | krngrngtamu@gmail.com**
